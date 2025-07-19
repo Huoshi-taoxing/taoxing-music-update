@@ -1,5 +1,5 @@
 {
-  "block": true,
+  "block": false,
   "message": "紧急维护中，修复已知问题",
   "until": "2025-07-22 18:00"
 }
