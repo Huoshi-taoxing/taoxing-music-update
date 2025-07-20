@@ -1,3 +1,4 @@
 {
-  "disable": false,
+  "disable": true,
+  "message": "当前版本存在严重问题，已被开发者临时停用。请关注项目主页通知。"
 }
