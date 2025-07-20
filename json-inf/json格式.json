@@ -1,5 +1,4 @@
 {
-  "disable": false,
-  "disable_reason": "桃星音乐 当前版本存在严重问题，暂时已被禁用。",
-  "timestamp": "2025-07-19T12:00:00Z"
+  "disable": true,
+  "message": "当前版本已暂停使用，敬请等待修复更新通知。"
 }
