@@ -1,5 +1,4 @@
 {
-  "disable": true,
-  "message": "目前 桃星音乐 被关闭 进行 通知测试，之后会恢复正常。感谢支持!"
+  "disable": false
 }
 
