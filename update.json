@@ -1,8 +1,9 @@
 {
-  "version": "1.2.5",
-  "message": "桃星音乐发现新版本! 更新内容: 核心版本 新增 音频可视化 圆圈 音乐节奏效果。 立即前往 桃星音乐 官网 开始下载更新。",
+  "version": "1.2.6",
+  "message": "发现新版本 - 更新内容: 在桃星音乐核心版本中新增 可视化节奏环 功能，同时优化了节奏环的外观效果。 立即前往 桃星音乐 官网 开始下载更新。",
   "url": "https://huoshi-taoxing.github.io/taoxing-music/taoxing-music-web/"
 }
+
 
 
 
